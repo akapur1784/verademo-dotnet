@@ -272,7 +272,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
-    <None Include="Properties\PublishProfiles\VeraDemoNet20181012063617 - Web Deploy.pubxml" />
     <Content Include="Scripts\jquery-1.11.2.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
